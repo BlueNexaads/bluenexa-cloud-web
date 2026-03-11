@@ -1,0 +1,13 @@
+__archives__/
+.git
+.claude
+.gemini
+.agent
+.agents
+.vscode
+node_modules
+tmp
+*.mp4
+!video_seccion.mp4
+!Bluenexa_logo_on_skyscraper_delpmaspu_.mp4
+# Exclusion of large unneeded video files if any, but let's keep the core ones
